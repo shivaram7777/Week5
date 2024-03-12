@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Shivaram",
+      "position": "CEO",
+      "photo": "https://www.veeforu.com/wp-content/uploads/2023/09/instagram-story-circle-png-with-no-DP-1024x576.png"
+    },
+    {
+      "id": 2,
+      "name": "murphy",
+      "position": "UI/UX Designer",
+      "photo": "https://www.veeforu.com/wp-content/uploads/2023/09/instagram-story-circle-png-with-no-DP-1024x576.png"
+    },
+    {
+      "id": 3,
+      "name": "Jordon",
+      "position": "Project Manager",
+      "photo": "https://www.veeforu.com/wp-content/uploads/2023/09/instagram-story-circle-png-with-no-DP-1024x576.png"
+    },
+    {
+      "id": 4,
+      "name": "Bharath",
+      "position": "Personal assistance",
+      "photo": "https://www.veeforu.com/wp-content/uploads/2023/09/instagram-story-circle-png-with-no-DP-1024x576.png"
+    }
+  ]
+  
